@@ -1,0 +1,9 @@
+{
+  "name": "api-analysis",
+  "version": "1.0.0",
+  "description": "Computation of API design quality heuristics",
+  "author": "Marcos Baez, Carlos Rodriguez, Florian Daniel <mbaezpy@gmail.com>",
+  "dependencies": {
+    "fast-csv": "*"
+  }
+}
