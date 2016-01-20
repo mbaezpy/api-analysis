@@ -50,6 +50,7 @@ sort requests.csv > sorted.csv
 
 node aggregate.js sorted.csv > levels.csv
 
+```
 Output:
 
 1. maturity_level
@@ -75,6 +76,6 @@ Output:
 21. res_ok_matchMedia
 22. res_ok_cacheQuery
 23. domain
-
+```
 
               
